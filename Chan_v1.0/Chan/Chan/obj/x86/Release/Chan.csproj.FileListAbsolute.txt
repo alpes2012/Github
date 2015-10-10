@@ -1,0 +1,7 @@
+D:\程序\Chan\Chan\bin\Release\Chan.exe
+D:\程序\Chan\Chan\bin\Release\Chan.pdb
+D:\程序\Chan\Chan\obj\x86\Release\ResolveAssemblyReference.cache
+D:\程序\Chan\Chan\obj\x86\Release\Chan.Form1.resources
+D:\程序\Chan\Chan\obj\x86\Release\Chan.Properties.Resources.resources
+D:\程序\Chan\Chan\obj\x86\Release\Chan.exe
+D:\程序\Chan\Chan\obj\x86\Release\Chan.pdb

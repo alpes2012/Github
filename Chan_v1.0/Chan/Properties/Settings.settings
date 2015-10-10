@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chan.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OriginalDataPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\虚拟机共享\new_tdx\vipdoc</Value>
+    </Setting>
+    <Setting Name="InitStockNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">999999</Value>
+    </Setting>
+    <Setting Name="BlockFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\虚拟机共享\new_tdx\T0002\blocknew</Value>
+    </Setting>
+    <Setting Name="KGrade" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

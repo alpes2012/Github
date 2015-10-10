@@ -1,0 +1,17 @@
+D:\Backup\Code\Show\Show\bin\Debug\Show.exe
+D:\Backup\Code\Show\Show\bin\Debug\Show.pdb
+D:\Backup\Code\Show\Show\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\Code\Show\Show\obj\x86\Debug\Show.Properties.Resources.resources
+D:\Backup\Code\Show\Show\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\Code\Show\Show\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\Code\Show\Show\obj\x86\Debug\Show.exe
+D:\Backup\Code\Show\Show\obj\x86\Debug\Show.pdb
+D:\快盘\Code\Show\Show\obj\x86\Debug\Show.exe
+D:\快盘\Code\Show\Show\obj\x86\Debug\Show.pdb
+D:\快盘\Code\Show\Show\obj\x86\Debug\Show.Properties.Resources.resources
+D:\快盘\Code\Show\Show\bin\Debug\Show.exe
+D:\快盘\Code\Show\Show\bin\Debug\Show.pdb
+D:\快盘\Code\Show\Show\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\快盘\Code\Show\Show\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\快盘\Code\Show\Show\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\快盘\Code\Show\Show\obj\x86\Debug\Show.MainForm.resources

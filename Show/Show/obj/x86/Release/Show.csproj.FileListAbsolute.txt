@@ -1,0 +1,8 @@
+D:\快盘\Code\Show\Show\bin\Release\Show.exe
+D:\快盘\Code\Show\Show\bin\Release\Show.pdb
+D:\快盘\Code\Show\Show\obj\x86\Release\ResolveAssemblyReference.cache
+D:\快盘\Code\Show\Show\obj\x86\Release\Show.Properties.Resources.resources
+D:\快盘\Code\Show\Show\obj\x86\Release\GenerateResource.read.1.tlog
+D:\快盘\Code\Show\Show\obj\x86\Release\GenerateResource.write.1.tlog
+D:\快盘\Code\Show\Show\obj\x86\Release\Show.exe
+D:\快盘\Code\Show\Show\obj\x86\Release\Show.pdb

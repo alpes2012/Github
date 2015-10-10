@@ -1,0 +1,16 @@
+D:\程序\Chan\Chan\bin\Debug\Chan.exe
+D:\程序\Chan\Chan\bin\Debug\Chan.pdb
+D:\程序\Chan\Chan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程序\Chan\Chan\obj\x86\Debug\Chan.Form1.resources
+D:\程序\Chan\Chan\obj\x86\Debug\Chan.Properties.Resources.resources
+D:\程序\Chan\Chan\obj\x86\Debug\Chan.exe
+D:\程序\Chan\Chan\obj\x86\Debug\Chan.pdb
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\Chan.exe
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\Chan.pdb
+D:\alpes_work\Work\Chan\Chan\Chan\bin\Debug\Chan.exe
+D:\alpes_work\Work\Chan\Chan\Chan\bin\Debug\Chan.pdb
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\Chan.Form1.resources
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\Chan.Properties.Resources.resources
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\alpes_work\Work\Chan\Chan\Chan\obj\x86\Debug\GenerateResource.write.1.tlog
